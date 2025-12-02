@@ -1,10 +1,10 @@
 # THE TUB – Overview & WaveCave Proposal
 
-## Synopsis (50–100 words)
+## Synopsis
 
 Entering the WaveCave, you encounter a floor-bound, frosted acrylic tub glowing softly in the center of the room. A ring of speakers surrounds you, with industrial Allen-Bradley switches on short pedestals between the entrance and the tub. Visitors may plug in instruments, phones, or microphones, or simply speak into the space; the tub listens, remembers, and replies in moving multichannel sound, turning the gallery into a shared, slowly learning instrument.
 
-## Detailed Description (≤500 words)
+## Detailed Description
 
 THE TUB is a cybernetic, spatiodynamic sculpture that treats a single acrylic prism and the gallery around it as a listening instrument. Constructed from welded 1/2" frosted acrylic panels braced with clear blocks, the tub sits directly on the floor, like a bathtub extruded from the concrete. It houses a small computer, audio interface, and cabling that route sound to a six-channel speaker field and out to a line of Allen-Bradley selector switches on metal pedestals.
 
