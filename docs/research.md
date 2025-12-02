@@ -22,8 +22,8 @@ Sebastian is currently completing a DMA in music at the California Institute of 
 
 - Portfolio / general info – `cbassuarez.com`
 - Project page – `cbassuarez.com/tub`
-- Dissertation (PDF) – *EMBODIED MANIFESTATIONS of SPACE* (CalArts DMA, link provided in proposal PDF)
-- Technical and machine-learning work – `github.com/cbassuarez`
-- Open-access recordings – Dex Digital Sample Library (link provided in proposal PDF)
+- Dissertation (PDF) – *EMBODIED MANIFESTATIONS of SPACE: I – Concerning Human Understanding* `[drive.google.com/...](https://drive.google.com/file/d/1VXpe8wF9v2UflcTUm3b8UN4WXdLga-ln/view?usp=sharing)`
+- Technical and machine-learning work – `[github.com/cbassuarez](github.com/cbassuarez/cbassuarez)`
+- Open-access recordings – Dex Digital Sample Library `dexdsl.org`
 
 These links give you access to prior installations, software work, and documentation that situate THE TUB within a broader body of research and practice.
