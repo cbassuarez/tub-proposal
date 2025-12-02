@@ -1,0 +1,168 @@
+{
+  "site": {
+    "title": "THE TUB",
+    "subtitle": "spatiodynamic cybernetic instrument | proposal",
+    "description": "Score and technical notes for THE TUB, an acrylic listening instrument that rests on the floor like a prism extruded from the ground.",
+    "accent": "#7F5AF0"
+  },
+  "sources": {
+    "globs": [
+      "docs/**/*.md"
+    ],
+    "includeReadme": false
+  },
+  "ia": [
+    {
+      "id": "overview-md",
+      "title": "Overview.md",
+      "order": 0,
+      "hidden": false,
+      "pages": [
+        {
+          "source": "docs/overview.md",
+          "title": "THE TUB – Overview & WaveCave Proposal",
+          "slug": "the-tub-overview-wavecave-proposal",
+          "summary": "Entering the WaveCave, you encounter a floor-bound, frosted acrylic tub glowing softly in the center of the room. A ring of speakers surrounds you, with industrial Allen-Bradley switches on short pedestals between the entrance and the tub. Visitors may plug in instruments, phones, or microphones, or simply speak into the space; the tub listens, remembers, and replies in moving multichannel sound, turning the gallery into a shared, slowly learning instrument.",
+          "tags": [],
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "tech-md",
+      "title": "Tech.md",
+      "order": 1,
+      "hidden": false,
+      "pages": [
+        {
+          "source": "docs/tech.md",
+          "title": "Technical Plan & Requirements (WaveCave)",
+          "slug": "technical-plan-requirements-wavecave",
+          "summary": "THE TUB is a self-contained system that interfaces cleanly with the WaveCave’s existing six-channel audio infrastructure. I bring the sculptural object, control hardware, sensing, computer, and interface; the WaveCave provides the room, the existing Lynx Aurora and Genelec speakers, and basic power and ladder access.",
+          "tags": [],
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "interaction-md",
+      "title": "Interaction.md",
+      "order": 2,
+      "hidden": false,
+      "pages": [
+        {
+          "source": "docs/interaction.md",
+          "title": "Audience Experience & Interaction",
+          "slug": "audience-experience-interaction",
+          "summary": "From the hallway, visitors see a frosted acrylic tub resting on the floor, lit softly from within. Cables emerge from one side of the tub and cross the floor toward a short line of metal pedestals holding Allen-Bradley switches. Above, the familiar WaveCave ceiling grid hides a 6-channel speaker system that quietly fills the room.",
+          "tags": [],
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "machines-md",
+      "title": "Machines.md",
+      "order": 3,
+      "hidden": false,
+      "pages": [
+        {
+          "source": "docs/machines.md",
+          "title": "Machine Learning & MLOps in THE TUB",
+          "slug": "machine-learning-mlops-in-the-tub",
+          "summary": "In THE TUB, machine learning is not a black-box effect or a cloud service. It is a small, local policy layer that sits between what the system hears and how it responds. It shapes how the tub behaves as an accompanist, how it moves sound through the WaveCave, and how it regulates its own energy over the span of a week-long installation.",
+          "tags": [],
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "installation-md",
+      "title": "Installation.md",
+      "order": 4,
+      "hidden": false,
+      "pages": [
+        {
+          "source": "docs/installation.md",
+          "title": "Installation Plan, Timeline & Maintenance",
+          "slug": "installation-plan-timeline-maintenance",
+          "summary": "The installation follows the WaveCave’s standard week-long schedule:",
+          "tags": [],
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "safety-md",
+      "title": "Safety.md",
+      "order": 5,
+      "hidden": false,
+      "pages": [
+        {
+          "source": "docs/safety.md",
+          "title": "Safety, Accessibility & Risk Notes",
+          "slug": "safety-accessibility-risk-notes",
+          "summary": "- The tub is constructed from 1/2\" acrylic with additional clear blocks reinforcing the interior joints and optional top trusses. It is designed to withstand incidental contact and the weight of people lightly leaning on or resting against it.",
+          "tags": [],
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "research-md",
+      "title": "Research.md",
+      "order": 6,
+      "hidden": false,
+      "pages": [
+        {
+          "source": "docs/research.md",
+          "title": "Research Context, Bio & Links",
+          "slug": "research-context-bio-links",
+          "summary": "THE TUB is part of my ongoing research into cybernetics, spatial production, and machine agency in sound. Across recent works I have treated technological systems as performers with their own limited but persistent forms of memory, temperament, and refusal. The piece extends that practice into an explicitly public gallery setting.",
+          "tags": [],
+          "hidden": false
+        }
+      ]
+    }
+  ],
+  "frontMatter": {
+    "addIfMissing": false,
+    "tocDepth": 2,
+    "autoSummary": false
+  },
+  "codeTabs": {
+    "enabled": false,
+    "strategy": "fence",
+    "order": [
+      "js",
+      "ts",
+      "bash"
+    ]
+  },
+  "assets": {
+    "optimize": true,
+    "sizes": [
+      "webp"
+    ],
+    "altPolicy": "warn"
+  },
+  "search": {
+    "enabled": true,
+    "engine": "light",
+    "fields": [
+      "Title",
+      "Headings",
+      "Body"
+    ],
+    "excludeSections": []
+  },
+  "works": {
+    "includeInNav": false,
+    "includeOnHome": false,
+    "linkMode": "auto"
+  },
+  "paths": {
+    "root": "docs/",
+    "homepage": "docs/tech.md"
+  }
+}

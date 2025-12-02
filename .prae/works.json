@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "works": [
+    {
+      "id": 1,
+      "slug": "the-tub",
+      "title": "THE TUB",
+      "oneliner": "An acrylic listening instrument and machine accompanist that sits on the floor like a prism extruded from the ground.",
+      "description": "THE TUB is a floor-bound acrylic prism that listens, remembers, and plays back with you. Visitors plug in instruments or devices and shape the system’s behavior with industrial Allen-Bradley switches. Inside the tub, a small computer analyzes the shared sound field and answers through a multi-speaker array, treating the gallery as a co-produced instrument.",
+      "audio": null,
+      "pdf": null,
+      "cues": []
+    }
+  ]
+}
