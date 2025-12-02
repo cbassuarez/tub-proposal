@@ -126,9 +126,9 @@
     }
   ],
   "frontMatter": {
-    "addIfMissing": true,
+    "addIfMissing": false,
     "tocDepth": 2,
-    "autoSummary": true
+    "autoSummary": false
   },
   "codeTabs": {
     "enabled": false,
@@ -163,6 +163,6 @@
   },
   "paths": {
     "root": "docs/",
-    "homepage": "docs/overview.md"
+    "homepage": "docs/tech.md"
   }
 }
