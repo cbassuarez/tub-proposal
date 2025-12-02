@@ -1,6 +1,6 @@
 # THE TUB – Overview & WaveCave Proposal
 
-## Synopsis
+## Short Description (Synopsis)
 
 Entering the WaveCave, you encounter a floor-bound, frosted acrylic tub glowing softly in the center of the room. A ring of speakers surrounds you, with industrial Allen-Bradley switches on short pedestals between the entrance and the tub. Visitors may plug in instruments, phones, or microphones, or simply speak into the space; the tub listens, remembers, and replies in moving multichannel sound, turning the gallery into a shared, slowly learning instrument.
 
