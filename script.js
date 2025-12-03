@@ -24,11 +24,11 @@
   "config": {
     "theme": "dark",
     "site": {
-      "firstName": "",
+      "firstName": "THE TUB",
       "lastName": "",
-      "fullName": "",
+      "fullName": "SEB SUAREZ/PAUL YORKE",
       "copyrightName": "",
-      "listLabel": "Works List",
+      "listLabel": "THE TUB",
       "subtitle": "",
       "updated": {
         "mode": "auto",
@@ -46,9 +46,19 @@
           "external": false
         },
         {
-          "label": "Contact",
-          "href": "#",
-          "external": false
+          "label": "WEBSITE",
+          "href": "https://cbassuarez.com",
+          "external": true
+        },
+        {
+          "label": "GITHUB",
+          "href": "https://github.com/cbassuarez/cbassuarez",
+          "external": true
+        },
+        {
+          "label": "POWERED BY PRAETORIUS",
+          "href": "https://cbassuarez.github.io/praetorius",
+          "external": true
         }
       ]
     }
@@ -101,7 +111,7 @@
   window.PRAE.ensureAudioTags = ensureAudioTags;
   window.PRAE.config = window.PRAE.config || {};
   window.PRAE.config.theme = data.config ? data.config.theme : "dark";
-  window.PRAE.config.site  = data.config ? data.config.site  : {"firstName":"","lastName":"","fullName":"","copyrightName":"","listLabel":"Works List","subtitle":"","updated":{"mode":"auto","value":""},"links":[{"label":"Home","href":"#","external":false},{"label":"Projects","href":"#","external":false},{"label":"Contact","href":"#","external":false}]};
+  window.PRAE.config.site  = data.config ? data.config.site  : {"firstName":"THE TUB","lastName":"","fullName":"SEB SUAREZ/PAUL YORKE","copyrightName":"","listLabel":"THE TUB","subtitle":"","updated":{"mode":"auto","value":""},"links":[{"label":"Home","href":"#","external":false},{"label":"Projects","href":"#","external":false},{"label":"WEBSITE","href":"https://cbassuarez.com","external":true},{"label":"GITHUB","href":"https://github.com/cbassuarez/cbassuarez","external":true},{"label":"POWERED BY PRAETORIUS","href":"https://cbassuarez.github.io/praetorius","external":true}]};
   window.PRAE.warnings = Array.isArray(data.warnings) ? data.warnings : [];
 
   try { ensureAudioTags(); } catch(_) {}
