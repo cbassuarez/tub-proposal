@@ -1,0 +1,50 @@
+{
+  "theme": "dark",
+  "output": {
+    "minify": false,
+    "embed": false
+  },
+  "ui": {
+    "skin": "console",
+    "allowUrlOverride": true
+  },
+  "site": {
+    "firstName": "THE TUB",
+    "lastName": "",
+    "fullName": "SEB SUAREZ/PAUL YORKE",
+    "copyrightName": "",
+    "listLabel": "THE TUB",
+    "subtitle": "",
+    "updated": {
+      "mode": "auto",
+      "value": ""
+    },
+    "links": [
+      {
+        "label": "Home",
+        "href": "#",
+        "external": false
+      },
+      {
+        "label": "Projects",
+        "href": "#",
+        "external": false
+      },
+      {
+        "label": "WEBSITE",
+        "href": "https://cbassuarez.com",
+        "external": true
+      },
+      {
+        "label": "GITHUB",
+        "href": "https://github.com/cbassuarez/cbassuarez",
+        "external": true
+      },
+      {
+        "label": "POWERED BY PRAETORIUS",
+        "href": "https://cbassuarez.github.io/praetorius",
+        "external": true
+      }
+    ]
+  }
+}
