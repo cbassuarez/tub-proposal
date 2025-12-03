@@ -21,6 +21,5 @@ Sebastian recently completed their masters in music composition at the Peabody I
 - Dissertation (PDF) – *EMBODIED MANIFESTATIONS of SPACE: I – Concerning Human Understanding* 
 `http://bit.ly/3M74xSd`
 - Technical and machine-learning work – `github.com/cbassuarez/cbassuarez`
+- Praetorius, the shell in which this website lives (audio-reactive PDFs and websites) – `cbassuarez.github.io/praetorius`
 - Open-access recordings – Dex Digital Sample Library `dexdsl.org`
-
-These links give you access to prior installations, software work, and documentation that situate THE TUB within a broader body of research and practice.
